@@ -1,9 +1,10 @@
 ## Hi there!
  
 I'm Technologist in System Analysis! :computer:   
-I’m from Brazil.  
-I’m currently learning everything.  
-2022 Goals: create a new project and find a new job.  
+currently learning everything.
+
+Moro em Campinas, São Paulo, onde estudo Análise e Desenvolvimento de Sistemas. Quando não estou no computador explorando novas tecnologias, me aventuro na natureza ou na academia. Tenho uma paixão por tecnologia e atividade física, sempre buscando novos projetos para começar. Através dessa jornada, aprendi o valor de ser obstinado e me esforçar para inspirar outras pessoas a perseguirem suas paixões e viverem a vida ao máximo, seja escalando uma montanha ou perseguindo um sonho.
+
  
 ## About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/guilhermepeppi)
