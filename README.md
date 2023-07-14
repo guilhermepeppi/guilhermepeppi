@@ -10,7 +10,6 @@ Moro em Campinas, São Paulo, onde estudo Análise e Desenvolvimento de Sistemas
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/guilhermepeppi/)
 
 - Thanks for visiting.
-- Enjoy it!! o/
 
 <!---
 guilhermepeppi/guilhermepeppi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
